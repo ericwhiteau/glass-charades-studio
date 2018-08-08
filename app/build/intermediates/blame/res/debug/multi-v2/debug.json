@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "48,41,19,25,29,38,35,32,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1928,1678,749,1028,1209,1573,1461,1349,867",
+                        "endLines": "79,45,19,25,29,38,35,32,22",
+                        "endColumns": "19,19,45,47,48,53,45,58,59",
+                        "endOffsets": "3264,1869,790,1071,1253,1622,1502,1403,922"
+                    },
+                    "to": {
+                        "startLines": "2,34,44,45,46,47,48,49,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,1365,1806,1852,1900,1949,2003,2049,2108",
+                        "endLines": "33,38,44,45,46,47,48,49,50",
+                        "endColumns": "19,19,45,47,48,53,45,58,59",
+                        "endOffsets": "1360,1552,1847,1895,1944,1998,2044,2103,2163"
+                    }
+                },
+                {
+                    "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "19,30,27,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "790,1325,1180,1012",
+                        "endColumns": "42,55,48,48",
+                        "endOffsets": "828,1376,1224,1056"
+                    },
+                    "to": {
+                        "startLines": "39,40,41,42",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1557,1600,1656,1705",
+                        "endColumns": "42,55,48,48",
+                        "endOffsets": "1595,1651,1700,1749"
+                    }
+                },
+                {
+                    "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\values\\integers.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "790",
+                        "endColumns": "51",
+                        "endOffsets": "837"
+                    },
+                    "to": {
+                        "startLines": "43",
+                        "startColumns": "4",
+                        "startOffsets": "1754",
+                        "endColumns": "51",
+                        "endOffsets": "1801"
+                    }
+                }
+            ]
+        }
+    ]
+}

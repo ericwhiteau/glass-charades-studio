@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phrase_correct_30.png.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\drawable-hdpi\\ic_phrase_correct_30.png"
+    },
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\layout_table_row_result.xml.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\layout\\table_row_result.xml"
+    },
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gameplay.xml.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\layout\\activity_gameplay.xml"
+    },
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\xml_voice_trigger_play_a_game.xml.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\xml\\voice_trigger_play_a_game.xml"
+    },
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_game_50.png.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\drawable-hdpi\\ic_game_50.png"
+    },
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_results_summary.xml.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\layout\\card_results_summary.xml"
+    },
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phrase_missed_30.png.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\drawable-hdpi\\ic_phrase_missed_30.png"
+    },
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\raw_sad_trombone.ogg.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\raw\\sad_trombone.ogg"
+    },
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\anim_tug_right.xml.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\anim\\tug_right.xml"
+    },
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\menu_start_game.xml.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\menu\\start_game.xml"
+    },
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_results_phrase_list.xml.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\layout\\card_results_phrase_list.xml"
+    },
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start_game.xml.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\layout\\activity_start_game.xml"
+    },
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\menu_game_results.xml.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\menu\\game_results.xml"
+    },
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\raw_triumph.ogg.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\raw\\triumph.ogg"
+    },
+    {
+        "merged": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_help_50.png.flat",
+        "source": "D:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\src\\main\\res\\drawable-hdpi\\ic_help_50.png"
+    }
+]

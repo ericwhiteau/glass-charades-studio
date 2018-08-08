@@ -1,0 +1,4 @@
+#Tue Aug 07 09:22:38 AEST 2018
+base.0=D\:\\data\\src\\glass\\test\\gdk-charades-sample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
