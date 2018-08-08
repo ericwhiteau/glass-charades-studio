@@ -1,5 +1,11 @@
 # glass-charades-studio
-import of old gdk-charades-sample for google glass
+import of old gdk-charades-sample for google glass.
+
+This has been setup and a quick test in Android studio with Glass Enterprise to check that it was working.
+
+Added default activity in manifest
+
+set SDK "Google Inc.:Glass Development Kit Preview:19"
 
 Readme from original.
 
